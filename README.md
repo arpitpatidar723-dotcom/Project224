@@ -1,6 +1,4 @@
-# ATTENDANCE SYSTEM
-
-AI Based Face Recognition Attendance System
+# AI Based Face Recognition Attendance System
 
 The AI Based Face Recognition Attendance System is a smart and automated attendance management project that uses Artificial Intelligence (AI) and Computer Vision to mark attendance automatically through face recognition. This system reduces manual effort, saves time, and helps prevent proxy attendance.
 
